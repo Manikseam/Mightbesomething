@@ -6,3 +6,6 @@ NEXT:
 
 - another contract
 - swapper function
+
+Changelog:
+- changed functions calls
