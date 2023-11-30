@@ -7,6 +7,9 @@ mod HelloStarkt {
     #[event]
     fn Hello2(from: ContractAddress, value: felt252) {}
 
+    #[event]
+    fn Fake(from: ContractAddress, value: felt252) {}
+
 
     #[external]
     fn Say_HelloZUHSA(message: felt252) {
