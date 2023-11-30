@@ -14,4 +14,10 @@ mod HelloStarkt {
         Hello2(caller, message);
     }
 
+    #[external]
+    fn Say_HelloPete(message: felt252) {
+        let caller = get_caller_address();
+        Hello2(caller, message);
+    }
+
 }
