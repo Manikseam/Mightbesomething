@@ -8,4 +8,4 @@ NEXT:
 - swapper function
 
 Changelog:
-- changed functions calls
+- changed functions calls (30.11.)
